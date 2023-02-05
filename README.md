@@ -1,16 +1,17 @@
-### Hi there 👋
+### Welcome to my profile!! 👋
 
-<!--
-**RodolfoPG/rodolfopg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <ul>
+    <li>I'm Rodolfo, a Front-End Developer focusing on ReactJS.
+    <li>I’m currently working at AnnuityCheck as an intern.
+    <li>I’m currently learning and practicing to become a Full-Stack.
+    <li>Yes, I'm a Brazilian guy who loves American Root Beer.</li>
+  </ul>
+</div>
 
-Here are some ideas to get you started:
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=RodolfoPG&show_icons=true&theme=dark&count_private=true">
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=RodolfoPG&layout=compact&theme=dark">
+</div>
